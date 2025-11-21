@@ -1,5 +1,7 @@
 # openfinance
 
+![CI/CD Pipeline](https://github.com/MarcioArbues/openfinance/workflows/CI/CD%20Pipeline/badge.svg)
+
 Exemplo Prático de PROJECT BASED LEARNING
 
 Motivação:
